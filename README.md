@@ -6,7 +6,7 @@ Still in process
 
 
 ### Themes, cursor, icons and more
-* [Icons]()
+* [Icons](https://github.com/G4skd0r/My_stuff/tree/main/icons)
 * [Fonts]()
 * [Colors]()
 * [Cursors]()
