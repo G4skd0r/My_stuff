@@ -10,5 +10,5 @@ Still in process
 * [Fonts]()
 * [Colors]()
 * [Cursors]()
-* [Themes]()
+* [Themes](https://github.com/G4skd0r/My_stuff/tree/main/themes)
 * [Wallpapers]()
